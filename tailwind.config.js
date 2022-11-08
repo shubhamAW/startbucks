@@ -10,6 +10,8 @@ module.exports = {
         starGreen:'#D4E9E2',
         darkGreen:'#1E3932',
         starpink:'#EFC6CC',
+        lightText:'rgba(0,0,0,.58)',
+        titleText:'rgba(0,0,0, .87)'
       }
     },
   },
