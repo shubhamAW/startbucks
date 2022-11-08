@@ -1,5 +1,5 @@
 # startbucks
-starbucks website clone
+starbucks website using utility base css framework **tailwind CSS**
 
 # Screenshot
 
